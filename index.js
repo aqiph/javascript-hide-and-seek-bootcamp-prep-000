@@ -27,7 +27,7 @@ function deepestChild(){
   return current
 }
 
-deepestChild()
+console.log(deepestChild())
 
 
 
